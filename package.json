@@ -1,0 +1,24 @@
+{
+  "name": "modern-nsa-product-generator",
+  "version": "1.0.0",
+  "description": "Modern way NSA product generator. Generated documents not contains SECRET information.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErdemOzgen/modern-nsa-product-generator.git"
+  },
+  "keywords": [
+    "nsa",
+    "generated",
+    "docs"
+  ],
+  "author": "ErdemOzgen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ErdemOzgen/modern-nsa-product-generator/issues"
+  },
+  "homepage": "https://github.com/ErdemOzgen/modern-nsa-product-generator#readme"
+}
